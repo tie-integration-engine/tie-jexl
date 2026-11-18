@@ -11,7 +11,7 @@ restricted sandbox (no class access, no loops, no side effects).
 <dependency>
     <groupId>io.github.tie-integration-engine</groupId>
     <artifactId>tie-jexl</artifactId>
-    <version>0.5.0</version>
+    <version>0.6.0</version>
 </dependency>
 ```
 
